@@ -1,0 +1,14 @@
+/*definição de cor*/
+.citacao{
+  color: greenyellow;
+}
+/*definição de cor e tamanho da fonte*/
+.saberMaior{
+    color: red;
+    font-size: 25px;
+  }
+/*definição de cor e tamanho da fonte*/
+.saberMenor{
+    color: blue;
+    font-size: 25px;
+  }
